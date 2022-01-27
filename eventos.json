@@ -1,0 +1,30 @@
+[{
+        "id": 1,
+        "autor": "Gallery Studio",
+        "titulo": "Nuevas Obras expuestas ",
+        "srcimg": "https://i.ibb.co/mDgNWy2/Collection-of-motivational-posters-on-a-wall.jpg",
+        "alt": "Obras",
+        "texto":"Nuevas obras expuestas en la zona B de la galeria.",
+        "url":"https://www.instagram.com/p/CZEkpvqtLhX/?utm_source=ig_web_copy_link"
+    },
+    {
+        "id": 2,
+        "autor": "Gallery Studio",
+        "titulo": "Nueva Galeria",
+        "srcimg": "https://i.ibb.co/sb58b9D/RTY.jpg",
+        "alt": "Nueva Galeria",
+        "texto": "Gallery Studio abre su segunda galeria junto a la sede central de Lleida",
+        "url": "https://www.instagram.com/p/CZEjgaRNBUM/?utm_source=ig_web_copy_link"
+    },
+    {
+        "id": 3,
+        "autor": "Gallery Studio",
+        "titulo": "Nuevas Instalaciones",
+        "srcimg": "https://i.ibb.co/99Ykg6V/Empty-room-with-a-dark-gray-wall-mockup.jpg",
+        "alt": "Diseños Arquitectónicos",
+        "texto": "Nuevos diseños arquitectónicos con un modelo Vanguardista",
+        "url": "https://www.instagram.com/p/CZAdd8bLMTL/?utm_source=ig_web_copy_link"
+    }
+
+
+]
